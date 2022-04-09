@@ -1,8 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi cô gái hay zợn zỗi và khóc nhòe",
     introTitle: 'Ngọc',
-    introDesc: ` Chúng mình đã dành một quãng thời gian
-    cho nhau,nhưng sao chỉ vì những điều nhỏ nhặt mà đánh mất nhau.
+    introDesc: ` sao chỉ vì những điều nhỏ nhặt mà đánh mất nhau.
     Tại sao phải suy xét đúng sai? Khi trái tim chẳng bao giờ nằm bên phải.`,
     btnIntro: 'Ấn đây Ngọc ơi^^',
     title: 'Phải chăng Ngọc đang nhớ tui 🥰',
