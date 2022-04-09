@@ -5,16 +5,16 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: 'Ấn đây Ngọc ơi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'Thích lắm <3',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại muốn đi chơi với mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'hihi đương nhiên là đi với Dương đẹp trai là xiu dzui ',
+    mess: 'Mình biết mà 🥰. Mơn bạn nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h, bạn muốn đi dạo, chợ đêm hay chè 68?.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: '' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: ''https://www.facebook.com/kean.lee.1906'' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
