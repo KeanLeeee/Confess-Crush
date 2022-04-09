@@ -1,10 +1,8 @@
 const CONFIG = {
     titleWeb: "Gửi cô gái hay zợn zỗi và khóc nhòe",
     introTitle: 'Ngọc',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `
+    à thương`,
     btnIntro: 'Ấn đây Ngọc ơi^^',
     title: 'Phải chăng Ngọc đang nhớ tui 🥰',
     desc: 'Phải chăng Ngọc đang muốn tui rủ Ngọc i chơi ',
@@ -16,5 +14,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Mơn bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, bạn muốn đi dạo, chợ đêm hay chè 68 nè?.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: ''https://keanleeee.github.io/Confess-Crush/'' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: ''https://keanleeee.github.io/Confess-Crush/ //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
